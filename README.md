@@ -9,7 +9,7 @@ Read-only field to show pretty json in your [filamentphp](https://filamentphp.co
 You can install the package via composer:
 
 ```bash
-composer require novadaemon/filament-pretty-json
+composer require itliusha/filament-pretty-json
 ```
 
 This package supports Filament 2.x, 3.x and 4.x.
